@@ -45,7 +45,7 @@ I love creating content.
 [<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" height="50">](https://www.postgresql.org/)
 
 # 📊Stats:
-[![Build Status](https://img.shields.io/travis/{RohantheRj}/{}?style=fTyBcs-JAVA-EXAM-2024-lat-square)](https://travis-ci.org/{RohantheRj}/{TyBcs-JAVA-EXAM-2024-})
+[![Build Status](https://img.shields.io/travis/RohantheRj/os?style=flat-square)](https://travis-ci.org/RohantheRj/os)
 
 
 
