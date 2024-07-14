@@ -44,6 +44,8 @@ I love creating content.
 [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="50" height="50">](https://getbootstrap.com/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" height="50">](https://www.postgresql.org/)
 
+# 📊Stats:
+[![Build Status](https://img.shields.io/travis/{RohantheRj}/{}?style=fTyBcs-JAVA-EXAM-2024-lat-square)](https://travis-ci.org/{RohantheRj}/{TyBcs-JAVA-EXAM-2024-})
 
 
 
