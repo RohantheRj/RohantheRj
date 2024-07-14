@@ -28,15 +28,15 @@ I love creating content.
 
 
 # 💻 Tech Stack:
-[![HTML5](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)](https://en.wikipedia.org/wiki/HTML5)
-
-
 ### Programming Languages and Technologies
 
-[![C](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)](https://www.python.org/)
-[![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_query_icon.svg)](https://en.wikipedia.org/wiki/SQL)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="50" height="50">](https://en.wikipedia.org/wiki/C_(programming_language))
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50">](https://www.python.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" height="50">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50">](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_query_icon.svg" width="50" height="50">](https://en.wikipedia.org/wiki/SQL)
+
+
+
 
 
