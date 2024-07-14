@@ -34,16 +34,16 @@ I love creating content.
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50">](https://www.python.org/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" height="50">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50">](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_query_icon.svg" width="50" height="50">](https://en.wikipedia.org/wiki/SQL)
+
 [<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="50" height="50">](https://www.php.net/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Oracle_Corporation_logo.svg" width="50" height="50">](https://www.oracle.com/database/)
+
 [<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="50" height="50">](https://www.linux.org/)
 [<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="50" height="50">](https://www.java.com/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Assembly_programming_language_logo.svg" width="50" height="50">](https://en.wikipedia.org/wiki/Assembly_language)
+
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50">](https://en.wikipedia.org/wiki/HTML5)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="50" height="50">](https://getbootstrap.com/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" height="50">](https://www.postgresql.org/)
-[<img src="https://upload.wikimedia.org/wikipedia/en/e/ee/MySQL_Logo.png" width="50" height="50">](https://www.mysql.com/)
+
 
 
 
