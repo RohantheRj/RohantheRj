@@ -5,6 +5,8 @@ I thrive on transforming raw data into meaningful insights. With a keen eye for 
 
 🌱 I’m currently learning:
 Oracle sql,Power BI and  React.
+
+
 # 🔍 What I Do
 Data Wrangling: Taming messy data is my specialty. I clean, preprocess, and prepare data for analysis with precision.
 
@@ -15,7 +17,7 @@ Statistical Modeling: From regression to clustering, I use statistical technique
 Data Visualization: I believe in the power of visualization to tell compelling stories. I create informative charts and graphs that speak volumes.
 
 # 💬 Ask me about:
-Java, C, php, python, SQL, and any general software development questions.
+Java, C, php, python, SQL,power BI,Data Analyst and any general software development questions.
 
 # ⚡ Fun fact:
 I love creating content.
