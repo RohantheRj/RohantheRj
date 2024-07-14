@@ -49,7 +49,10 @@ I love creating content.
 </div>
 
 # 📊Stats:
-[![Build Status](https://img.shields.io/travis/RohantheRj/os?style=flat-square)](https://travis-ci.org/RohantheRj/os)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RohantheRj&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohantheRj&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
