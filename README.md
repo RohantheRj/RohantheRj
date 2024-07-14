@@ -28,6 +28,8 @@ I love creating content.
 
 
 # 💻 Tech Stack:
+[![HTML5](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)](https://en.wikipedia.org/wiki/HTML5)
+
 
 
 68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465
