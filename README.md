@@ -20,11 +20,10 @@ Java, C, php, python, SQL, and any general software development questions.
 # ⚡ Fun fact:
 I love creating content.
 
-#🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rohan-santosh-jadhav-311b74274/)
 
-[![INSATGRAM](https://img.shields.io/https://www.instagram.com/rohan___v18?igsh=enZxYWw1MHNzenN5
-)
-https://www.instagram.com/rohan___v18?igsh=enZxYWw1MHNzenN5
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-blue?style=flat&logo=instagram)](https://www.instagram.com/rohan___v18?igsh=enZxYWw1MHNzenN5)
+
 
 
