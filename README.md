@@ -31,6 +31,12 @@ I love creating content.
 [![HTML5](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)](https://en.wikipedia.org/wiki/HTML5)
 
 
+### Programming Languages and Technologies
 
-68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465
+[![C](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)](https://www.python.org/)
+[![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_query_icon.svg)](https://en.wikipedia.org/wiki/SQL)
+
 
